@@ -1,0 +1,326 @@
+{
+  "business": {
+    "name": "Tri-County Pest Control",
+    "shortName": "Tri-County",
+    "tagline": "Dallas' Trusted Pest Control Experts",
+    "niche": "Pest Control",
+    "phone": "(469) 301-9250",
+    "address": "5431 E Grand Ave, Dallas, TX 75223",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8am-6pm, Sat 9am-1pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Tri-County Pest Control | Expert Pest Control in Dallas, TX",
+    "description": "Tri-County Pest Control offers professional pest control services in Dallas, TX. From ants to rodents, we eliminate pests fast. 4.9 stars. Call now!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas' #1 Pest Control Service",
+      "headline": "Your Home, Pest-Free — Guaranteed",
+      "subheadline": "Fast, effective, and reliable pest control for Dallas homeowners and businesses. Rated 4.9 stars.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 301-9250"
+    },
+    "stats": [
+      {
+        "value": "4.9",
+        "label": "Star Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Homes Protected"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Protection",
+        "title": "Full-Service Pest Control for Dallas Homes",
+        "body": "We target pests at the source with eco-friendly treatments that keep your family safe. From ants to rodents, we handle it all.",
+        "bullets": [
+          "Eco-friendly products",
+          "Same-day service available",
+          "Free inspection and quote"
+        ],
+        "reverse": false,
+        "cardLabel": "Featured Service",
+        "cardTitle": "Rodent Control",
+        "cardBody": "Exclusion, trapping, and prevention to keep rodents out for good."
+      },
+      {
+        "eyebrow": "Peace of Mind",
+        "title": "Our Promise: Fast, Friendly, Effective",
+        "body": "We show up on time, treat your property with respect, and follow up to ensure results. No pests, no stress.",
+        "bullets": [
+          "Licensed and insured technicians",
+          "Flexible scheduling",
+          "Follow-up visits included"
+        ],
+        "reverse": true,
+        "cardLabel": "Client Favorite",
+        "cardTitle": "Ant Control",
+        "cardBody": "Eliminate entire colonies with targeted baiting and barrier treatments."
+      }
+    ],
+    "whyTitle": "Why Choose Tri-County Pest Control?",
+    "whyChooseUs": [
+      {
+        "title": "Local Experts",
+        "description": "We know Dallas pests and the best ways to treat them."
+      },
+      {
+        "title": "Eco-Friendly",
+        "description": "Low-toxicity treatments safe for kids and pets."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "If pests return, we return — at no extra cost."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees, no surprises. Free quotes upfront."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Tri-County was prompt, professional, and our ant problem disappeared within a day. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner in Oak Lawn"
+      },
+      {
+        "quote": "I've used them for years. Always reliable and the technicians are very knowledgeable.",
+        "author": "James R.",
+        "role": "Business owner in Deep Ellum"
+      },
+      {
+        "quote": "They explained everything and the price was fair. No pressure, just great service.",
+        "author": "Linda T.",
+        "role": "Homeowner in Lakewood"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Reclaim Your Home?",
+      "subheadline": "Schedule your free inspection today.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 301-9250"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of pest control services tailored to Dallas homes and businesses. Every treatment is backed by our satisfaction guarantee."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "General Pest Control",
+      "shortDescription": "Ongoing protection against common household pests.",
+      "longDescription": "Our general pest control service targets ants, spiders, roaches, and more with a proven treatment plan that keeps your home pest-free year-round.",
+      "benefits": [
+        "Quarterly or monthly visits",
+        "Covers 30+ pests",
+        "Interior and exterior treatment",
+        "Free re-treatments between visits"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We inspect your home to identify pest entry points and activity."
+        },
+        {
+          "title": "Treatment",
+          "description": "Apply targeted treatments to interior and exterior areas."
+        },
+        {
+          "title": "Prevention",
+          "description": "Seal gaps and provide tips to prevent future infestations."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I schedule pest control?",
+          "answer": "We recommend quarterly treatments for most homes, but monthly plans are available for high-risk areas."
+        },
+        {
+          "question": "Are your products safe for pets?",
+          "answer": "Yes, we use EPA-approved, low-toxicity products that are safe for pets and children when dry."
+        }
+      ],
+      "slug": "general-pest-control"
+    },
+    {
+      "icon": "02",
+      "title": "Rodent Control",
+      "shortDescription": "Eliminate mice and rats quickly and humanely.",
+      "longDescription": "Rodents can cause serious damage and spread disease. Our exclusion-based approach removes current infestations and prevents future entry.",
+      "benefits": [
+        "Humane trapping and removal",
+        "Exclusion and sealing",
+        "Sanitation and cleanup",
+        "Follow-up monitoring"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "Identify entry points, nests, and food sources."
+        },
+        {
+          "title": "Exclusion",
+          "description": "Seal all gaps and install proofing materials."
+        },
+        {
+          "title": "Removal",
+          "description": "Set traps and remove rodents, then monitor for activity."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does rodent control take?",
+          "answer": "Most infestations are resolved within 1-2 weeks with follow-up visits to ensure complete removal."
+        },
+        {
+          "question": "Do you offer rodent-proofing?",
+          "answer": "Yes, we seal all entry points and install vent covers and door sweeps to keep rodents out."
+        }
+      ],
+      "slug": "rodent-control"
+    },
+    {
+      "icon": "03",
+      "title": "Termite Control",
+      "shortDescription": "Protect your home from silent destroyers.",
+      "longDescription": "Termites cause billions in damage annually. Our advanced detection and treatment methods eliminate colonies and protect your property for years.",
+      "benefits": [
+        "Free termite inspection",
+        "Liquid barrier treatments",
+        "Baiting systems",
+        "Transferable warranty"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "Thoroughly check for termite activity and damage."
+        },
+        {
+          "title": "Treatment",
+          "description": "Apply liquid termiticide or install bait stations."
+        },
+        {
+          "title": "Monitoring",
+          "description": "Regular checks to ensure colony elimination."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I have termites?",
+          "answer": "Signs include mud tubes, hollow-sounding wood, and discarded wings. We offer free inspections."
+        },
+        {
+          "question": "Is termite treatment safe for my family?",
+          "answer": "Yes, our treatments are low-toxicity and applied with minimal disruption to your daily life."
+        }
+      ],
+      "slug": "termite-control"
+    },
+    {
+      "icon": "04",
+      "title": "Bed Bug Control",
+      "shortDescription": "Fast, discreet bed bug elimination.",
+      "longDescription": "Bed bugs are notoriously difficult to remove. Our heat and chemical treatments penetrate deep into cracks and fabrics to wipe out every stage of the infestation.",
+      "benefits": [
+        "Heat treatment options",
+        "Chemical spot treatments",
+        "Pre- and post-treatment prep guide",
+        "Follow-up inspection"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "Use canine or visual inspection to locate all hiding spots."
+        },
+        {
+          "title": "Treatment",
+          "description": "Apply heat or chemical treatment to affected areas."
+        },
+        {
+          "title": "Verification",
+          "description": "Re-inspect after treatment to confirm elimination."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many treatments are needed for bed bugs?",
+          "answer": "Typically 1-2 treatments, depending on the severity. We provide a follow-up inspection."
+        },
+        {
+          "question": "Do I need to throw away my furniture?",
+          "answer": "No, our treatments can save your furniture. We'll guide you on preparation."
+        }
+      ],
+      "slug": "bed-bug-control"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Pest Control Since 2008",
+    "mission": "To provide safe, effective, and affordable pest control that gives our neighbors peace of mind.",
+    "story": [
+      "Tri-County Pest Control was founded in 2008 by a team of local pest control experts who saw a need for honest, reliable service in Dallas. What started as a small operation has grown into one of the most trusted pest control companies in the area, serving thousands of homes and businesses.",
+      "We believe in treating every home like our own. That means using the safest products, showing up on time, and standing behind our work with a 100% satisfaction guarantee. Our team continues to train on the latest techniques to stay ahead of Dallas' ever-changing pest challenges."
+    ],
+    "highlight": {
+      "stat": "4.9",
+      "label": "Average Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say and charge fair prices."
+      },
+      {
+        "title": "Excellence",
+        "description": "Continuous training and top-tier products."
+      },
+      {
+        "title": "Community",
+        "description": "We're your neighbors, and we care about Dallas."
+      },
+      {
+        "title": "Accountability",
+        "description": "If it's not right, we make it right."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Quote Today",
+    "subheadline": "Call or fill out the form — we'll respond within 24 hours.",
+    "primaryCta": "Call (469) 301-9250",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.9,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pest Control",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4693019250",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
